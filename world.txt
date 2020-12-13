@@ -1,0 +1,1 @@
+This is Ancientshower's first Git project for the odin project.
